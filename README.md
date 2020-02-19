@@ -1,7 +1,7 @@
 # Commercial RL uses
 🎉 Pull requests more than welcome! 🎉
 
-Documenting commercial reinforcement learning applications, the use of reinforcement learning in hte real world
+Documenting commercial reinforcement learning applications, the use of reinforcement learning in the real world
 
 List: 
  * **Spotify**: Multiobjective contextual bandits in their recommendation algorithm
