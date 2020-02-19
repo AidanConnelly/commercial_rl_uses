@@ -1,4 +1,6 @@
-# commercial_rl_uses
+# Commercial RL uses
+🎉 Pull requests more than welcome! 🎉
+
 Documenting commercial reinforcement learning applications, the use of reinforcement learning in hte real world
 
 List: 
