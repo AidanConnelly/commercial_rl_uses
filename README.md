@@ -8,3 +8,4 @@ List:
  * **Target**: Solving M.D.Ps for supply chain optimization
  * **Facebook**: Facebook's "M" for message autorecommendation
  * **Google**: Youtube's REINFORCE algorithm for recommendations
+ * **Another list**: https://openreview.net/group?id=ICML.cc/2019/Workshop/RL4RealLife
